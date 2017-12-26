@@ -1,0 +1,9 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.bg{
+	width: 200px;
+	height: 200px;
+	background: skyblue;
+}
